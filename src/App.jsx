@@ -1,3 +1,4 @@
+import "./nerd-font.css";
 function App() {
   return (
     <>
